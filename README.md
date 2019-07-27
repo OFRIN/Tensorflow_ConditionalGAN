@@ -1,4 +1,4 @@
-### Conditional Generative Adversarial Networks (cGAN)
+### Tensorflow_ConditionalGAN
 
 ## MNIST datasets
 ![result](results.gif)
